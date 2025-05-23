@@ -2,6 +2,8 @@
 
 Hi! I'm Sai Smitha Yarakareddy, a passionate final-year CSE student from KL University. This is my personal portfolio built to showcase my skills, certifications, and internship experience in web development and Python programming.
 
+ **View it here**:https://sai-smitha-yarakareddy-vglzus9.gamma.site/
+ 
 ## 🔧 Technologies Used
 - HTML, CSS, JavaScript
 - React.js
